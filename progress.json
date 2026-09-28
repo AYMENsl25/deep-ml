@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:44:57.223Z",
+  "generated_at": "2026-09-28T11:13:34.461Z",
   "items": {
     "problem:44": {
       "kind": "problem",
@@ -65,6 +65,19 @@
       "last_pushed_at": "2026-09-22T15:44:51.158Z",
       "language": "python",
       "lines": 72
+    },
+    "problem:25": {
+      "kind": "problem",
+      "id": "25",
+      "title": "Single Neuron with Backpropagation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/25",
+      "path": "problems/0025-single-neuron-with-backpropagation",
+      "first_solved_at": "2026-09-28T11:13:31.930Z",
+      "last_pushed_at": "2026-09-28T11:13:31.930Z",
+      "language": "python",
+      "lines": 83
     }
   }
 }
