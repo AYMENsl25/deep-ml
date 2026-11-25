@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 5 problems · 2 labs · 0 math
+**8** solved · 6 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-09-16 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-22 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-09-16 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
+| [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-11-25 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-28 | [solution](problems/0025-single-neuron-with-backpropagation) |
 
 ## Labs
